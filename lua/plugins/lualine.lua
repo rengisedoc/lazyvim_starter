@@ -1,3 +1,6 @@
+-- stylua: ignore
+if true then return {} end
+
 local icons = LazyVim.config.icons
 
 return {
